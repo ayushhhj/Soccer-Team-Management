@@ -1,0 +1,20 @@
+{
+    "players": [
+        {
+            "country": "Portugal",
+            "assists": 0,
+            "name": "Ronaldo",
+            "position": "FWD",
+            "goals": 0
+        },
+        {
+            "country": "France",
+            "assists": 0,
+            "name": "Varane",
+            "position": "DEF",
+            "goals": 0
+        }
+    ],
+    "league": "Premier League",
+    "name": "Man Utd"
+}
